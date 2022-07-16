@@ -92,6 +92,7 @@ select {
 
 body{
     background-color: var(--Very-Dark-Blue);
+    background-image: -moz-linear-gradient(top, var(--Very-Dark-Blue) 50%, var(--Dark-Blue) 100%);
     width: auto;
   height: auto;
   margin: 0;
